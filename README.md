@@ -1,7 +1,7 @@
 # 🌱 Smart Greenhouse System
 
 Smart Greenhouse System is an IoT-based greenhouse monitoring and automation platform developed using Raspberry Pi.
-The project combines environmental sensors, automation modules, computer vision, a Telegram bot, a web dashboard, and an e-paper display into one synchronized ecosystem.
+The project combines environmental sensors, automation modules, computer vision, a Telegram bot, a website, and an e-paper display into one synchronized ecosystem.
 
 The system continuously monitors greenhouse conditions, stores sensor data in a shared JSON architecture, and provides real-time access through multiple interfaces.
 
@@ -14,7 +14,7 @@ The system continuously monitors greenhouse conditions, stores sensor data in a 
 * 🌬 CO₂ concentration monitoring
 * 💡 Light intensity monitoring
 * 🤖 Telegram bot for greenhouse control and notifications
-* 🌐 Web dashboard for monitoring and management
+* 🌐 Website for monitoring and management
 * 📟 E-paper display with live environmental data
 * 🧠 Computer vision module based on OpenCV
 * ❄️ Automatic cooling and humidification control
@@ -70,7 +70,7 @@ All interfaces display synchronized environmental information in real time.
 * Alerts and notifications
 * Greenhouse management tools
 
-### Web Dashboard
+### Website
 
 * Live environmental monitoring
 * Device control panel
@@ -90,7 +90,7 @@ All interfaces display synchronized environmental information in real time.
 <h3>Telegram Bot</h3>
 <img src="media/telegram_bot.jpg" width="700">
 
-<h3>Web Site</h3>
+<h3>Website</h3>
 <img src="media/website.jpg" width="700">
 
 
@@ -180,14 +180,14 @@ Additional project materials are available in Google Drive:
 The repository includes:
 
 * Telegram bot demonstration
-* Web dashboard demonstration
+* Website demonstration
 * Real sensor monitoring examples
 
 ---
 
 ## 👩‍💻 Author
 
-Developed by Vasilisa Krivtsova
+Developed by Vasilisa Korchagina
 GitHub: https://github.com/vee-kr
 
 ---
