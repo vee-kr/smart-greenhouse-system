@@ -171,7 +171,7 @@ Additional project materials are available in Google Drive:
 * Photos of the assembled system
 * Project documentation
 
-[Google Drive Folder](PASTE_YOUR_LINK_HERE)
+[Google Drive Folder](https://drive.google.com/drive/folders/1QviYAYKNhg31D6Lsyh_xMvCiRRbYCQKh?usp=sharing)
 
 ---
 
