@@ -88,10 +88,10 @@ All interfaces display synchronized environmental information in real time.
 
 
 ### Telegram Bot
-![Telegram Bot](telegram_bot.jpg)
+![Telegram Bot](media/telegram_bot.jpg)
 
 ### Web Site
-![Web Dashboard](website.jpg)
+![Web Dashboard](media/website.jpg)
 
 
 
