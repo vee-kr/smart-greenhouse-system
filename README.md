@@ -90,7 +90,7 @@ All interfaces display synchronized environmental information in real time.
 <h3>Telegram Bot</h3>
 <img src="media/telegram_bot.jpg" width="700">
 
-<h3>Web Dashboard</h3>
+<h3>Web Site</h3>
 <img src="media/website.jpg" width="700">
 
 
