@@ -83,6 +83,20 @@ All interfaces display synchronized environmental information in real time.
 * Live environmental data visualization
 
 ---
+## 📷 System Preview
+
+
+
+### Telegram Bot
+![Telegram Bot](telegram_bot.jpg)
+
+### Web Site
+![Web Dashboard](website.jpg)
+
+
+
+---
+
 
 ## 🧠 Computer Vision
 
