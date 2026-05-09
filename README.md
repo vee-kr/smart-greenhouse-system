@@ -28,7 +28,7 @@ The system continuously monitors greenhouse conditions, stores sensor data in a 
 ```text
 Sensors → Raspberry Pi → Shared JSON Database
                               ↓
-Telegram Bot / Web Dashboard / E-paper Display
+Telegram Bot / Website / E-paper Display
 ```
 
 The project uses a centralized JSON-based data exchange system.
