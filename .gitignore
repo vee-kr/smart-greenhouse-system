@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+
+test_shot.jpg
+live_mushrooms.jpg
+smart_mushroom_sensors.json
+mushroom_history.csv
+
+.DS_Store
+.vscode/
+.idea/
