@@ -23,22 +23,36 @@ I decided to build this project to help people grow fresh herbs, mint, and other
 
 ### Final System
 
-<img src="media/Final_system.jpg" width="70%">
+<img src="media/Final_system.jpg" width="75%">
 
 ### Telegram Bot interface
 
-<img src="media/Telegram_Bot.jpg" width="70%">
+<img src="media/Telegram_Bot.jpg" width="75%">
 
 
 ### Website interface
 
-<img src="media/Website.jpg" width="70%">
+<img src="media/Website.jpg" width="75%">
 
 
 ### Epaper Display
 
-<img src="media/Epaper_display.jpg" width="50%">
+<img src="media/Epaper_display.jpg" width="65%">
 
 ---
 
 ## 🌟 Features
+
+- 🌡️ Temperature and humidity monitoring
+- 💧 Soil moisture monitoring
+- ☀️ Light intensity monitoring
+- 🌬️ CO2 concentration monitoring
+- 🧊 Automatic cooling and humidification control
+- 📱 Telegram Bot for control parameters and notifications
+- 🌐 Web dashboard 
+- 🖥️ E-paper local display
+- 🤖🧠 Computer vision module (OpenCV) for plant growth analysis
+- 🖨️ Custom 3D-printed enclosure
+- 📊 Real-time sensor data
+
+---
