@@ -23,21 +23,21 @@ I decided to build this project to help people grow fresh herbs, mint, and other
 
 ### Final System
 
-<img src="media/Final_system.jpg" width="75%">
+<img src="media/Final_system.jpg" alt="GitHub" width="75%">
 
 ### Telegram Bot interface
 
-<img src="media/Telegram_Bot.jpg" width="75%">
+<img src="media/Telegram_Bot.jpg" alt="GitHub" width="75%">
 
 
 ### Website interface
 
-<img src="media/Website.jpg" width="75%">
+<img src="media/Website.jpg" alt="GitHub" width="75%">
 
 
-### Epaper Display
+### E-paper Display
 
-<img src="media/Epaper_display.jpg" width="65%">
+<img src="media/Epaper_display.jpg" alt="GitHub" width="65%">
 
 ---
 
@@ -54,5 +54,38 @@ I decided to build this project to help people grow fresh herbs, mint, and other
 - 🤖🧠 Computer vision module (OpenCV) for plant growth analysis
 - 🖨️ Custom 3D-printed enclosure
 - 📊 Real-time sensor data
+
+---
+
+## ⚙️Technologies
+
+### 🖨️ 3D Design & Printing
+
+- KOMPAS-3D (CAD)
+- UltiMaker Cura
+- 3D printer Dobot Mooz 3DF Plus
+
+### ⚒️ Hardware
+
+- Raspberry Pi 3 Model B+
+- Temperature and Humidity sensor (DHT22)
+- Soil Moisture sensor (YL-38)
+- Light sensor (KY-018)
+- Air Quality sensor (MQ-135)
+- Steam generator
+- Relay module
+- Peltier Cooling module 
+- LED Grow light
+- E-paper display (Waveshare 7.5")
+
+### 💻 Software
+
+- Raspberry Pi GPIO
+- Python
+- FastAPI
+- Aiogram
+- HTML/CSS
+- OpenCV
+- JSON 
 
 ---
