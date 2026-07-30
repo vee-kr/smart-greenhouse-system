@@ -57,7 +57,7 @@ I decided to build this project to help people grow fresh herbs, mint, and other
 
 ---
 
-## ⚙️Technologies
+## ⚙️ Technologies
 
 ### 🖨️ 3D Design & Printing
 
@@ -87,5 +87,17 @@ I decided to build this project to help people grow fresh herbs, mint, and other
 - HTML/CSS
 - OpenCV
 - JSON 
+
+---
+
+## 🏗 System Architecture
+
+```text
+Sensors → Raspberry Pi → JSON Database
+                                ↓
+              Telegram Bot / Website / E-paper display
+```
+
+All interfaces synchronize environmental data in real time through the JSON-based data exchange system.
 
 ---
