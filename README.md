@@ -101,3 +101,33 @@ Sensors → Raspberry Pi → JSON Database
 All interfaces synchronize environmental data in real time through the JSON-based data exchange system.
 
 ---
+
+## 📂Repository Structure
+
+``` text
+smart-greenhouse-system/
+⏐
+⏐⎯ main.py
+⏐⎯ tg_bot.py
+⏐⎯ e-paper.py
+⏐⎯ vision_engine.py
+⏐⎯ dht22_sensor.py
+⏐⎯ air_sensor.py
+⏐⎯ lux_sensor.py
+⏐⎯ moisture_sensor.py
+⏐
+⏐
+⏐⎯ templates/
+⏐   ⏐⎯ index.html
+⏐   ⏐⎯ login.html
+⏐   ⏐⎯ settings.html
+⏐    
+⏐
+⏐⎯ config.json
+⏐⎯ display_template.jpg
+⏐⎯ requirements.txt
+⏐⎯ .env.example
+⏐⎯ .gitignore
+⏐⎯ README.md
+```
+---
