@@ -131,3 +131,28 @@ smart-greenhouse-system/
 ⏐⎯ README.md
 ```
 ---
+
+## 📥 Installation
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Create a `.env` file using `.env.example` and configure:
+
+```env
+BOT_TOKEN=your_telegram_bot_token
+ADMIN_ID=your_telegram_user_id
+PROXY=your_vpn_proxy
+ADMIN_PASSWORD=your_password_for_website
+```
+Run the system:
+
+```bash
+python tg_bot.py
+python main.py
+python e-paper.py
+```
+---
