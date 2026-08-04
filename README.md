@@ -23,21 +23,21 @@ I decided to build this project to help people grow fresh herbs, mint, and other
 
 ### Final System
 
-<img src="media/Final_system.jpg" alt="GitHub" width="75%">
+<img src="media/Final_system.jpg" alt="Final System" width="75%">
 
 ### Telegram Bot interface
 
-<img src="media/Telegram_Bot.jpg" alt="GitHub" width="75%">
+<img src="media/Telegram_Bot.jpg" alt="Telegram Bot interface" width="75%">
 
 
 ### Website interface
 
-<img src="media/Website.jpg" alt="GitHub" width="75%">
+<img src="media/Website.jpg" alt="Website interface" width="75%">
 
 
 ### E-paper Display
 
-<img src="media/Epaper_display.jpg" alt="GitHub" width="65%">
+<img src="media/Epaper_display.jpg" alt="E-paper Display" width="65%">
 
 ---
 
@@ -102,7 +102,7 @@ All interfaces synchronize environmental data in real time through the JSON-base
 
 ---
 
-## 📂Repository Structure
+## 📂 Repository Structure
 
 ``` text
 smart-greenhouse-system/
@@ -134,13 +134,15 @@ smart-greenhouse-system/
 
 ## 📥 Installation
 
-Install dependencies:
+- Clone the repository.
+
+- Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Create a `.env` file using `.env.example` and configure:
+- Create a `.env` file using `.env.example` and configure:
 
 ```env
 BOT_TOKEN=your_telegram_bot_token
@@ -148,11 +150,36 @@ ADMIN_ID=your_telegram_user_id
 PROXY=your_vpn_proxy
 ADMIN_PASSWORD=your_password_for_website
 ```
-Run the system:
+
+- Configure Wi-Fi credentials.
+
+- Run the system:
 
 ```bash
 python tg_bot.py
 python main.py
 python e-paper.py
 ```
+---
+
+## 📚 Additional Materials and Documentation
+
+Additional project materials are available in Google Drive:
+
+- Project documentation
+- 3D models
+- Drawings & Specifications
+- Wiring diagram
+- Demonstration videos
+- Photos of the system
+
+This folder includes some demonstration videos:
+
+- Real-time working of the system
+- Telegram Bot demonstration
+- Website demonstration
+
+
+[Google Drive Folder](https://drive.google.com/drive/folders/1Vl7cnUSdAOg7_UUUHxxWYO9Hi9CsLcvI?usp=drive_link "Smart GreenHouse System")
+
 ---
