@@ -132,6 +132,20 @@ smart-greenhouse-system/
 ```
 ---
 
+
+## 🚀 How system works
+
+1.  Sensors collect environmental data
+2.  Raspberry Pi processes the information
+3.  Computer Vision (OpenCV) analyzes crop growth and greenhouse conditions from camera images
+4.  Data is displayed on the website and E-paper display
+5.  The Telegram Bot sends real-time alerts, status updates, and current environmental conditions and allows you to control devices
+6.  Actuators automatically control cooling, lighting and humidity
+
+
+---
+
+
 ## 📥 Installation
 
 - Clone the repository.
@@ -183,3 +197,10 @@ This folder includes some demonstration videos:
 [Google Drive Folder](https://drive.google.com/drive/folders/1Vl7cnUSdAOg7_UUUHxxWYO9Hi9CsLcvI?usp=drive_link "Smart GreenHouse System")
 
 ---
+
+
+## 👩🏼‍💻 Author
+
+Created by Vasilisa Korchagina
+
+GitHub: <https://github.com/vee-kr>
