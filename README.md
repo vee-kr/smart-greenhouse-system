@@ -198,9 +198,19 @@ This folder includes some demonstration videos:
 
 ---
 
+## 📈 Potential Improvements
+
+-  📲 Develop a mobile application
+-  🤖 Add AI-based plant health analysis
+-  🔋 Optimize power consumption using solar panels
+-  💾 Store sensor data in a cloud database and create historical charts
+
+---
 
 ## 👩🏼‍💻 Author
 
 Created by Vasilisa Korchagina
 
 GitHub: <https://github.com/vee-kr>
+
+---
